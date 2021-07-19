@@ -1,2 +1,1 @@
-this is inside the text file 2
-
+space version 2.0
